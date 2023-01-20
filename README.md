@@ -1,7 +1,7 @@
 **upgrade_mysql** is a simple Bash script using the WHM API to handle MySQL/MariaDB upgrades from the command line. Here's what it looks like:
 
 ```
-# upgrade_mysql.sh
+# upgrade_mysql
 Heads up! This can be a destructive process. Make sure to run 'backup_mysql' first to create a full backup. Also make a snapshot if this is a VPS.
 
 Installed: MariaDB 10.3
